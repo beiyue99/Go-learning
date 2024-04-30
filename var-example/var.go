@@ -36,5 +36,4 @@ func main() {
 		jj bool = true
 	)
 	fmt.Println("vv=", vv, ",jj=", jj)
-
 }

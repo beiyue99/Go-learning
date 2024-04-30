@@ -12,4 +12,7 @@ func main() {
 		fmt.Println("index=", index, "value=", value)
 	}
 
+	//查看数据类型
+	fmt.Printf("myArr1 types = %T\n", myArr1)
+	fmt.Printf("myArr2 types = %T\n", myArr2)
 }
